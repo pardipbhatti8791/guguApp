@@ -6,13 +6,15 @@ To use please follow below mention ways.
 
 Clone the repo.
 
-Then navigate to app directory and  install all modules using : sudo npm install .
+# Then navigate to app directory and  install all modules using : 
+        
+        sudo npm install .
 
-# Development Mode: 
+# Development Build: 
 
     npm start (This will lanch app in development mode)
 
-# Production Mode:
+# Production Build:
 
     npm run build (This will generate separate dist folder for production.)
 
